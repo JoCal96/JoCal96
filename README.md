@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jo</h1>
 <h3 align="center">An apprentice Software developer from UK</h3>
 
-- 🔭 I’m currently working on [a JS to-do web app](https://github.com/JoCal96/JS-to-do-app)
+- 🔭 I’m currently working on finishing an older project, a [Resturant Website](https://github.com/JoCal96/italian-restaurant-website)
+  
+- 🪄 I’ve recently completed working on [a JS to-do web app](https://github.com/JoCal96/JS-to-do-app)
 
 - 🌱 I’m currently learning **Java and Python while completing my apprenticeship**
 
