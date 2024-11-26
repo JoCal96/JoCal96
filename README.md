@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a collection of [short Python Projects](https://github.com/JoCal96/short-python-projects)
   
-- 🪄 I’ve recently completed working on [a JS to-do web app](https://github.com/JoCal96/JS-to-do-app)
+- ✅ I’ve recently completed working on [a JS to-do web app](https://github.com/JoCal96/JS-to-do-app)
 
 - 🌱 I’m currently learning **Java and Python while completing my apprenticeship**
 
